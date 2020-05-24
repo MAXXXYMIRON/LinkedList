@@ -1,0 +1,7 @@
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\list\Progrom\bin\Debug\Progrom.exe.config
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\list\Progrom\bin\Debug\Progrom.exe
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\list\Progrom\bin\Debug\Progrom.pdb
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\list\Progrom\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\list\Progrom\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\list\Progrom\obj\Debug\Progrom.exe
+C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\САОД\ПРАКТИКА\list\Progrom\obj\Debug\Progrom.pdb
